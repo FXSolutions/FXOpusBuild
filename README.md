@@ -6,12 +6,11 @@ iOS build scripts for the [Opus Codec](http://www.opus-codec.org). I am also wor
 ### Usage
 
 1. `$ bash build-libopus.sh`
-2. Drag `dependencies/` into your Xcode project.
+2. Drag `dependencies/` into your Xcode project or you just can copy repo dependencies.
 3. Enjoy and have fun!
 
-or you just can copy my dependencies
+### Buid settings in respo dependencies:
 
-### buid settings in my dependencies:
-* VERSION="1.1.1" <- opus lib http://downloads.xiph.org/releases/opus version
+* VERSION="1.1.1" <- opus [lib](http://downloads.xiph.org/releases/opus) version
 * SDKVERSION="9.2" <- iOS SDK
 * MINIOSVERSION="8.0" <- Min iOS SDK
