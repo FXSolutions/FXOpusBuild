@@ -8,6 +8,6 @@ iOS build scripts for the [Opus Codec](http://www.opus-codec.org).
 
 ### Buid settings in respo dependencies:
 
-* VERSION="1.1.1" <- opus [lib](http://downloads.xiph.org/releases/opus) version **release date(2015-11-25)**
+* VERSION="1.1.2" <- opus [lib](http://downloads.xiph.org/releases/opus) version **release date(2016-01-12)**
 * SDKVERSION="9.2" <- iOS SDK
 * MINIOSVERSION="8.0" <- Min iOS SDK
